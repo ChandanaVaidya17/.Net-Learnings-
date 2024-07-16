@@ -2,12 +2,10 @@ The .NET Framework is a proprietary software framework developed by Microsoft th
 
 
 # .NET Learning Path
-
 Welcome to the .NET Learning Path repository! This repository is dedicated to helping you learn .NET development through practical examples and projects.
 
 
 ## Overview
-
 This repository is structured to cover different levels of proficiency in .NET:
 
 - **/basics**: Fundamental concepts such as variables, loops, and functions.
@@ -17,7 +15,6 @@ This repository is structured to cover different levels of proficiency in .NET:
 Each folder contains examples and exercises aimed at reinforcing your understanding of .NET concepts.
 
 ## Getting Started
-
 To get started with this repository:
 
 1. Clone the repository:
