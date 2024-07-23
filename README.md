@@ -22,11 +22,9 @@ To get started with this repository:
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
    ```
-
 2. Explore the folders that interest you based on your current level and learning goals.
 
 3. Dive into the examples and exercises provided in each folder to practice and solidify your understanding.
 
 ---
-
 Customize the URLs (`your-username`, `your-repository`) to match your actual GitHub username and repository name. This README provides a concise introduction to your .NET learning repository, emphasizing its structure and how learners can get started exploring and using its resources.
