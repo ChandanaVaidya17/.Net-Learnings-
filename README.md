@@ -5,7 +5,7 @@ The .NET Framework is a proprietary software framework developed by Microsoft th
 Welcome to the .NET Learning Path repository! This repository is dedicated to helping you learn .NET development through practical examples and projects.
 
 Starting with c# basics. Here is the link for pdf
-[Download the PDF](https://github.com/username/repo/blob/main/example.pdf)
+[Download the PDF](https://github.com/ChandanaVaidya17/.Net-Learnings-/blob/main/cs-cheat-sheet.pdf)
 
 
 ## Overview
