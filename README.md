@@ -4,6 +4,10 @@ The .NET Framework is a proprietary software framework developed by Microsoft th
 # .NET Learning Path
 Welcome to the .NET Learning Path repository! This repository is dedicated to helping you learn .NET development through practical examples and projects.
 
+# C# Basics Cheat Sheet
+
+This cheat sheet provides a quick reference to essential C# concepts, syntax, and best practices for beginners. Perfect for both new learners and seasoned developers looking for a handy guide!
+
 Starting with c# basics. Here is the link for pdf
 [Download the PDF](https://github.com/ChandanaVaidya17/.Net-Learnings-/blob/main/cs-cheat-sheet.pdf)
 
