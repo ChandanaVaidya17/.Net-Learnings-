@@ -15,9 +15,9 @@ Starting with c# basics. Here is the link for pdf
 ## Overview
 This repository is structured to cover different levels of proficiency in .NET:
 
-- **/basics**: Fundamental concepts such as variables, loops, and functions.
-- **/intermediate**: Intermediate topics like object-oriented programming and error handling.
-- **/advanced**: Advanced features such as asynchronous programming and LINQ.
+- **basics**: Fundamental concepts such as variables, loops, and functions.
+- **intermediate**: Intermediate topics like object-oriented programming and error handling.
+- **advanced**: Advanced features such as asynchronous programming and LINQ.
 
 Each folder contains examples and exercises aimed at reinforcing your understanding of .NET concepts.
 
