@@ -17,6 +17,7 @@ This repository is structured to cover different levels of proficiency in .NET:
 
 - **basics**: Fundamental concepts such as variables, loops, and functions.
 - **intermediate**: Intermediate topics like object-oriented programming and error handling.
+  Here you can check the oops concept in c# [Oops concepts of c#](https://dev.to/caiocesar/c-object-oriented-programming-oop-cheat-sheet-5bkf)
 - **advanced**: Advanced features such as asynchronous programming and LINQ.
 
 Each folder contains examples and exercises aimed at reinforcing your understanding of .NET concepts.
