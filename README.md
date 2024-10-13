@@ -17,16 +17,6 @@ Starting with c# basics. Here is the link for pdf
 
 Each folder contains examples and exercises aimed at reinforcing your understanding of .NET concepts.
 
-## Getting Started
-To get started with this repository:
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
-2. Explore the folders that interest you based on your current level and learning goals.
-
-3. Dive into the examples and exercises provided in each folder to practice and solidify your understanding.
 
 
