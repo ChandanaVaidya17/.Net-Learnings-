@@ -9,7 +9,7 @@ This repository is structured to cover different levels of proficiency in .NET:
 
 This cheat sheet provides a quick reference to essential C# concepts, syntax, and best practices for beginners. Perfect for both new learners and seasoned developers looking for a handy guide!
 
-Starting with c# basics. Here is the link for pdf
+Starting with c# basics. Here below is the link for pdf 
 [Download the PDF](https://github.com/ChandanaVaidya17/.Net-Learnings-/blob/main/cs-cheat-sheet.pdf)
 - **intermediate**: Intermediate topics like object-oriented programming and error handling.
   Here you can check the oops concept in c# [Oops concepts of c#](https://dev.to/caiocesar/c-object-oriented-programming-oop-cheat-sheet-5bkf)
